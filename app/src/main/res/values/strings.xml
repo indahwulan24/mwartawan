@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mwartawan</string>
+    <string name="id_wartawan">Id Wartawan</string>
+    <string name="password">Password</string>
+</resources>
